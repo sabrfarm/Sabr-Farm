@@ -1,20 +1,4 @@
-justify-content: space-around;
-            padding: 10px;
-        }
-        nav a {
-            color: white;
-            text-decoration: none;
-        }
-        section {
-            padding: 20px;
-        }
-        h2 {
-            color: #28a745;
-        }
-        .animal-section {
-            background-color: #fff;
-            border-radius: 8px;<!DOCTYPE html>
-<html lang="bn">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
